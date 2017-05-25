@@ -1,1 +1,4 @@
 dsn.txt
+*.swp
+*.swo
+mysql-bug
