@@ -23,7 +23,7 @@ When SetConnMaxLifetime is set on a MySQL connection with TLS, connections are c
     CLIENT.48832 > SERVER.3306: Flags [S], seq 1951693141, win 29200, options [mss 1460,sackOK,TS val 64393780 ecr 0,nop,wscale 7], length 0
 
 ## Usage
-Copy dsn.txt.eample to dsn.txt and edit the dsn with valid MySQL server details (TLS is required for this behavior)
+Copy dsn.txt.example to dsn.txt and edit the dsn with valid MySQL server details (TLS is required for this behavior)
 
 ## Version Details
 Works as tested on Mariadb as distributed with CentOS 7, and a variety of recent versions of Go (1.6, 1.7, 1.8)
