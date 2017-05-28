@@ -1,0 +1,1 @@
+user:password@tcp(dbserver:3306)/bugtest?tls=skip-verify
